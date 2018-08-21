@@ -1,2 +1,3 @@
 ./src/main/java/com/pk/main/Main.java
 /target/
+src/test/java/com/pk/test/TokenGeneratorTest.java
